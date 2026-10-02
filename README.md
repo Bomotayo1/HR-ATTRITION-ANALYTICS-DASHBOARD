@@ -4,7 +4,7 @@ An end-to-end HR analytics project built in Microsoft Excel, using Power Query f
 for analysis and visualization. The goal was to identify where and why employee attrition is happening and turn raw HR records into a decision-ready dashboard for management.
 
 ## Table of Contents
- - [Key Performance Indicators](##Key-Performance-Indicators)
+ - [Key Performance Indicators](#Key-Performance-Indicators)
  - Business Questions
  - Tools used
  - Data Cleaning Process (Power Query)
