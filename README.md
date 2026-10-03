@@ -18,3 +18,15 @@ for analysis and visualization. The goal was to identify where and why employee 
  - [Contact](#Contacts)
 
 ## Key Performance Indicators
+
+|  KPI    |     Result |
+|------|---------|
+| Total Employees | 311 |
+| Overall Attrition Rate | 33% |
+| Average Age | 47.2 |
+| Average Tenure | 9.3 years |
+| Active Employees | 67% |
+| Voluntarily Terminated | 28% |
+| Terminated for Cause | 5% |
+
+## Business Questions
