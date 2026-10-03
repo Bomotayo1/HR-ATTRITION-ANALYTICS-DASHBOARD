@@ -52,5 +52,5 @@ The raw dataset (312 employees, 36 columns) required substantial cleaning before
    Voluntary-Career Growth). Two entries in the raw data contained non-standard text and were recategorised as Other/Unspecified
  - **Added derived columns:** Age, Tenure_years,  TerminationYear, and Salary_Range, calculated using Power Query's M formula Language so they update automatically on refresh
 ## Dashboard
-   [View Dashboard Screenshot](Dashboard/Screenshot-2026-10-02-102707.png)
+   [View Dashboard Screenshot](Dashboard/Screenshot2026-10-02102707.png)
 
