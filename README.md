@@ -102,3 +102,7 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
           spent on growth and dissatisfaction drivers.
     5. **Review satisfaction survey design.** The gap between high self-reported satisfaction and low engagement among for-cause terminations suggests the survey
            may not be capturing behavioral or performance warning signs - worth pairing survey data with manager check-ins.
+    6. **Continue investing in Indeed and LinkedIn** as primary recruitment channels, given their disproportionate share of successful hires.
+
+  ## How to Use This File
+   1. Download [HRDataset_V15_Dashboard]
