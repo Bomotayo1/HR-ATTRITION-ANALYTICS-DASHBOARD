@@ -5,7 +5,7 @@ for analysis and visualization. The goal was to identify where and why employee 
 
 ## Table of Contents
  - [Key Performance Indicators](#Key-Performance-Indicators)
- - Business Questions
+ - [Business Questions](#Business Questions)
  - Tools used
  - Data Cleaning Process (Power Query)
  - Dashboard
