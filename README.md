@@ -30,3 +30,10 @@ for analysis and visualization. The goal was to identify where and why employee 
 | Terminated for Cause | 5% |
 
 ## Business Questions
+ 1. What is the company's Overall attrition rate?
+ 2. Which department has the highest attrition and is that rate statistically meaningful given department size?
+ 3. What are the top reasons employees voluntarily leave?
+ 4. Which recruitment sources produce the most hires?
+ 5. How is the workforce distributed across salary brackets?
+ 6. Does employee engagement  or satisfaction relate to who stays and who leaves?
+## Tools Used
