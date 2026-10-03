@@ -12,7 +12,6 @@ for analysis and visualization. The goal was to identify where and why employee 
  - [Key Findings](#Key-Findings)
  - [Recommendations](#Recommendations)
  - [How to use this file](#How-to-use-this-file)
- - [Repository Structure](#Repository-Structure)
  - [Limitations](#Limitations)
  - [Related Project](#Related-Projects)
  - [Contact](#Contacts)
