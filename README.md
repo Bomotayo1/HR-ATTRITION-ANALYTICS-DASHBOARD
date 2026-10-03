@@ -46,3 +46,7 @@ The raw dataset (312 employees, 36 columns) required substantial cleaning before
 
  - **Trimmed and standardized text fields** (e.g., the Sex column contained hidden trailing spaces; HispanicLatino had inconsistent casing like
    "Yes"/"Yes"/"No"/"no")
+ - **Standardized date formats** across DOB, DateofHire, and LastPerformanceReview_Date, which mixed real date values with text-formatted dates
+ - **Removed 7 redundant numeric ID columns** (GenderID, MaritalStatusID, MarriedID, EmpStatusID, DeptID, PositionID, PerfScoreID) that duplicated existing text columns
+ - **Recoded the TermReason Column** from 18 raw, inconsistent text values into 8 clean categories (e.g., "Another Position", "Career change", and "retiring" were consolidated into
+   Voluntary
