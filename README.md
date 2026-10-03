@@ -118,7 +118,7 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
 ## Related project
    This analysis pairs with a SQL-based exploration of a separate retail dataset (Kultra Mega Stores), demonstrating the same end-to-end analytical process - Business question, cleaning, analysis, insight-across 
     two different tools and domains.
-    [link to SQL repo]()
+    [link to SQL repo](https://github.com/Bomotayo1/kultra-mega-stores-sql-analysis)
 
 ## Contact
 **BABATUNDE OMOTAYO** | [Linkedin](www.linkedin.com/in/omotayo-babatunde) | [Gmail](mailto:bomotayo99@gmail.com)
