@@ -121,4 +121,4 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
     [link to SQL repo](https://github.com/Bomotayo1/kultra-mega-stores-sql-analysis)
 
 ## Contacts
-**BABATUNDE OMOTAYO** | [Linkedin](www.linkedin.com/in/omotayo-babatunde) | [Gmail](mailto:bomotayo99@gmail.com)
+**BABATUNDE OMOTAYO** | [Linkedin](www.linkedin.com/inomotayo-babatunde) | [Gmail](mailto:bomotayo99@gmail.com)
