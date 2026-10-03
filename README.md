@@ -97,7 +97,7 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
     2. **Build clearer internal advancement paths**. Since career growth is the top reason for voluntary departure, employees may be leaving for opportunities the company could offer internally.
     3. **Investigate day-to-day dissatisfaction drivers in production.** Dissatisfaction is the #2 reason for leaving; this dataset doesn't capture why, so exit interviews or a targeted survey would help
        clarify whether it's workload, management, or recognition-related.
-    4. **Treat compensation adjustments as a lower priority lever** for production specifically, since it was the least-cited voluntary reason-resources may be better
+    4. **Treat compensation adjustments as a lower-priority lever** for production specifically, since it was the least-cited voluntary reason-resources may be better
           spent on growth and dissatisfaction drivers.
     5. **Review satisfaction survey design.** The gap between high self-reported satisfaction and low engagement among for-cause terminations suggests the survey
            may not be capturing behavioral or performance warning signs - worth pairing survey data with manager check-ins.
@@ -108,5 +108,17 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
    2. Open it in Microsoft Excel (recommended: Excel 2016 or later for full PivotTable/slicer support).
    3. Go to the **Dashboard** tab to view the finished visualizations.
    4. Use the **Department slicer** at the top of the dashboard to filter all connected charts by department.
-   5. To review the underlying cleaning logic, open **Power Query Editor** (Datat tab > Queries & Connections > right-click the query > Edit) to see the full list of applied steps.
+   5. To review the underlying cleaning logic, open **Power Query Editor** (Data tab > Queries & Connections > right-click the query > Edit) to see the full list of applied steps.
 ## Limitations
+   - Several departments (Admin Offices: 9 people, Software Engineering: 11 people, Executive Office: 1 person) are too small for their attrition percentages to be treated as strongly
+     conclusive; they're reported for completeness, but production's findings carry more statistical weight given its size.
+   - This dataset does not capture exit-interview detail, so while engagement and satisfaction scores are suggestive, they are not proof of causation.
+   - All cleaning and derived columns (Age, Tenure, Termination Year, Salary_Range) were built using powerquery and can be fully audited via the Applied Steps panel in the source file.
+
+## Related project
+    This analysis pairs with a SQL-based exploration of a separate retail dataset (Kultra Mega Stores), demonstrating the same end-to-end analytical process - Business question, cleaning, analysis, insight-across 
+    two different tools and domains.
+    [link to SQL repo]()
+
+## Contact
+**BABATUNDE OMOTAYO** | [Linkedin](www.linkedin.com/in/omotayo-babatunde) | [Gmail](mailto:bomotayo99@gmail.com)
