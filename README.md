@@ -41,3 +41,8 @@ for analysis and visualization. The goal was to identify where and why employee 
  - Power Query (data Cleaning and transformation)
  - PivotTables & PivotCharts
  - slicers (interactive filtering)
+## Data Cleaning Process (Power Query)
+The raw dataset (312 employees, 36 columns) required substantial cleaning before analysis:
+
+ - **Trimmed and standardized text fields** (e.g., the Sex column contained hidden trailing spaces; HispanicLatino had inconsistent casing like
+   "Yes"/"Yes"/"No"/"no")
