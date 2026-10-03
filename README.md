@@ -91,17 +91,17 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
      Voluntarily terminated employees reported higher engagement (4.58) than active employees (4.12). Employees terminated for cause show a contradiction:
      The highest self-reported satisfaction (5.00) paired with the lowest engagement (2.10) of any group - based on a small sample of 16 employees.
 5. **Indeed and Linkedin are dominant recruitment channels**. The majority of hires came through these two sources, with smaller contributions from Google Search, employee referrals, and diversity job fairs.
-   ## Recommendations
+ ## Recommendations
 
-    1. **Prioritize retention efforts in production**. As the largest department with the highest-volume attrition, even small improvements here will have an outsized impact on overall attrition rate.
-    2. **Build clearer internal advancement paths**. Since career growth is the top reason for voluntary departure, employees may be leaving for opportunities the company could offer internally.
-    3. **Investigate day-to-day dissatisfaction drivers in production.** Dissatisfaction is the #2 reason for leaving; this dataset doesn't capture why, so exit interviews or a targeted survey would help
+  1. **Prioritize retention efforts in production**. As the largest department with the highest-volume attrition, even small improvements here will have an outsized impact on overall attrition rate.
+  2. **Build clearer internal advancement paths**. Since career growth is the top reason for voluntary departure, employees may be leaving for opportunities the company could offer internally.
+  3. **Investigate day-to-day dissatisfaction drivers in production.** Dissatisfaction is the #2 reason for leaving; this dataset doesn't capture why, so exit interviews or a targeted survey would help
        clarify whether it's workload, management, or recognition-related.
-    4. **Treat compensation adjustments as a lower-priority lever** for production specifically, since it was the least-cited voluntary reason-resources may be better
+  4. **Treat compensation adjustments as a lower-priority lever** for production specifically, since it was the least-cited voluntary reason-resources may be better
           spent on growth and dissatisfaction drivers.
-    5. **Review satisfaction survey design.** The gap between high self-reported satisfaction and low engagement among for-cause terminations suggests the survey
+  5. **Review satisfaction survey design.** The gap between high self-reported satisfaction and low engagement among for-cause terminations suggests the survey
            may not be capturing behavioral or performance warning signs - worth pairing survey data with manager check-ins.
-    6. **Continue investing in Indeed and LinkedIn** as primary recruitment channels, given their disproportionate share of successful hires.
+  6. **Continue investing in Indeed and LinkedIn** as primary recruitment channels, given their disproportionate share of successful hires.
 
   ## How to Use This File
    1. Download [HRDataset_V15_Data](Data/HRDataset_v15.xlsx.xlsx)
