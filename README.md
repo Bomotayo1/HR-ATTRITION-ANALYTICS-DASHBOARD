@@ -96,4 +96,9 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
 
     1. **Prioritize retention efforts in production**. As the largest department with the highest-volume attrition, even small improvements here will have an outsized impact on overall attrition rate.
     2. **Build clearer internal advancement paths**. Since career growth is the top reason for voluntary departure, employees may be leaving for opportunities the company could offer internally.
-    3. **Investigate day-to-day dissatisfaction drivers in production.** Dissatisfaction is the #2 reason for leaving;
+    3. **Investigate day-to-day dissatisfaction drivers in production.** Dissatisfaction is the #2 reason for leaving; this dataset doesn't capture why, so exit interviews or a targeted survey would help
+       clarify whether it's workload, management, or recognition-related.
+    4. **Treat compensation adjustments as a lower priority lever** for production specifically, since it was the least-cited voluntary reason-resources may be better
+          spent on growth and dissatisfaction drivers.
+    5. **Review satisfaction survey design.** The gap between high self-reported satisfaction and low engagement among for-cause terminations suggests the survey
+           may not be capturing behavioral or performance warning signs - worth pairing survey data with manager check-ins.
