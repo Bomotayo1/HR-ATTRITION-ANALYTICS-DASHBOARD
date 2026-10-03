@@ -53,4 +53,24 @@ The raw dataset (312 employees, 36 columns) required substantial cleaning before
  - **Added derived columns:** Age, Tenure_years,  TerminationYear, and Salary_Range, calculated using Power Query's M formula Language so they update automatically on refresh
 ## Dashboard
    [View Dashboard Screenshot](Dashboard/Screenshot%202026-10-02%20102707.png)
+  
+ The dashboard includes:
+
+  - **KPI summary row:** Total Headcount, Overall Attrition Rate, Average Age, Average Tenure
+  - **Department Filter Slicer** for interactive drill-down
+  - **Attrition Rate by Department** (horizontal bar, % of each department that has left)
+  - **Why Production Employees Leave** (breakdown of departure reasons in the highest-attrition department)
+  - **Recruitment Source** (hires by channel)
+  - **Employee Distribution by Salary Range**
+  - **Key Insight callout** summarizing the engagement vs. satisfaction finding
+## Key Findings
+
+   1. **Overall attrition is 33%**, **and it's overwhelmingly voluntary.** Of 311 employees, 67% are active, 28% voluntarily left, and 5% were terminated for cause.
+   2. **Production is the Primary driver of attrition - and the finding holds up at scale.** Production (209 employees, the company's largest department) has a 39.7% attrition rate
+      (35.9% voluntary, 3.8% for cause). Software Engineering shows a similar percentage (36.4%), but with only 11 employees, which shows that the number should be treated cautiously.
+   3. **Pay isn't the main reason people leave production - career growth is**
+
+|  Reason  |  Count | % of Departures |
+|----------|--------|-----------------|
+| Career Growth | 27 | 32.5% |
 
