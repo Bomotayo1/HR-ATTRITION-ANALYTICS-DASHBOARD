@@ -105,4 +105,4 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
     6. **Continue investing in Indeed and LinkedIn** as primary recruitment channels, given their disproportionate share of successful hires.
 
   ## How to Use This File
-   1. Download [HRDataset_V15_Dashboard](Data/HRDataset%20v15.xlsx.xlsx)
+   1. Download [HRDataset_V15_Dashboard](Data/HRDataset_v15.xlsx.xlsx)
