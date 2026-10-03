@@ -105,4 +105,9 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
     6. **Continue investing in Indeed and LinkedIn** as primary recruitment channels, given their disproportionate share of successful hires.
 
   ## How to Use This File
-   1. Download [HRDataset_V15_Dashboard](Data/HRDataset_v15.xlsx.xlsx)
+   1. Download [HRDataset_V15_Data](Data/HRDataset_v15.xlsx.xlsx)
+   2. Open it in Microsoft Excel (recommended: Excel 2016 or later for full PivotTable/slicer support).
+   3. Go to the **Dashboard** tab to view the finished visualizations.
+   4. Use the **Department slicer** at the top of the dashboard to filter all connected charts by department.
+   5. To review the underlying cleaning logic, open **Power Query Editor** (Datat tab > Queries & Connections > right-click the query > Edit) to see the full list of applied steps.
+## Limitations
