@@ -116,7 +116,7 @@ Compensation was the least-cited Voluntary reason, contrary to the common assump
    - All cleaning and derived columns (Age, Tenure, Termination Year, Salary_Range) were built using powerquery and can be fully audited via the Applied Steps panel in the source file.
 
 ## Related project
-    This analysis pairs with a SQL-based exploration of a separate retail dataset (Kultra Mega Stores), demonstrating the same end-to-end analytical process - Business question, cleaning, analysis, insight-across 
+   This analysis pairs with a SQL-based exploration of a separate retail dataset (Kultra Mega Stores), demonstrating the same end-to-end analytical process - Business question, cleaning, analysis, insight-across 
     two different tools and domains.
     [link to SQL repo]()
 
