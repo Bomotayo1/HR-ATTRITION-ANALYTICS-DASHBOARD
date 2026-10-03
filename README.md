@@ -80,3 +80,20 @@ The raw dataset (312 employees, 36 columns) required substantial cleaning before
 | Performance/Conduct (involuntary) | 3 | 3.6% |
 
 Compensation was the least-cited Voluntary reason, contrary to the common assumption that pay drives attrition.
+
+ 4. **Engagement and satisfaction tell different stories depending on why someone left**.
+    
+     | Group | Avg. satisfaction | Avg. Engagement |
+     |-------|-------------------|-----------------|
+     | Active | 4.00 | 4.12 |
+     | Terminated for Cause | 5.00 | 2.10 |
+     | Voluntarily Terminated | 4.00 | 4.58 |
+
+     Voluntarily terminated employees reported higher engagement (4.58) than active employees (4.12). Employees terminated for cause show a contradiction:
+     The highest self-reported satisfaction (5.00) paired with the lowest engagement (2.10) of any group - based on a small sample of 16 employees.
+5. **Indeed and Linkedin are dominant recruitment channels**. The majority of hires came through these two sources, with smaller contributions from Google Search, employee referrals, and diversity job fairs.
+   ## Recommendations
+
+    1. **Prioritize retention efforts in production**. As the largest department with the highest-volume attrition, even small improvements here will have an outsized impact on overall attrition rate.
+    2. **Build clearer internal advancement paths**. Since career growth is the top reason for voluntary departure, employees may be leaving for opportunities the company could offer internally.
+    3. **Investigate day-to-day dissatisfaction drivers in production.** Dissatisfaction is the #2 reason for leaving;
