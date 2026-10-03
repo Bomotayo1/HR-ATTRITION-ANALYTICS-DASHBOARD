@@ -73,4 +73,10 @@ The raw dataset (312 employees, 36 columns) required substantial cleaning before
 |  Reason  |  Count | % of Departures |
 |----------|--------|-----------------|
 | Career Growth | 27 | 32.5% |
-|
+| Dissatisfacttion | 20 | 24.1% |
+| Personal | 16 | 19.3% |
+| Compensation | 11 | 13.3% |
+| Attendance (involuntary) | 6 | 7.2% |
+| Performance/Conduct (involuntary) | 3 | 3.6% |
+
+Compensation was the least-cited Voluntary reason, contrary to the common assumption that pay drives attrition.
