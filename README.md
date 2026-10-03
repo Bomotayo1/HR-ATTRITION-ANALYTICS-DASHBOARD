@@ -37,3 +37,7 @@ for analysis and visualization. The goal was to identify where and why employee 
  5. How is the workforce distributed across salary brackets?
  6. Does employee engagement  or satisfaction relate to who stays and who leaves?
 ## Tools Used
+ - Microsoft Excel
+ - Power Query (data Cleaning and transformation)
+ - PivotTables & PivotCharts
+ - slicers (interactive filtering)
