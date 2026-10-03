@@ -7,7 +7,7 @@ for analysis and visualization. The goal was to identify where and why employee 
  - [Key Performance Indicators](#Key-Performance-Indicators)
  - [Business Questions](#Business-Questions)
  - [Tools Used](#Tools-Used)
- - [Data Cleaning Process (Power Query)](#Data-Cleaning-Process (Power Query))
+ - [Data Cleaning Process (Power Query)](#DataCleaningProcess (Power Query))
  - [Dashboard](#Dashboard)
  - [Key Findings](#Key-Findings)
  - [Recommendations](#Recommendations)
