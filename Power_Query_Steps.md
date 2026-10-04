@@ -48,8 +48,8 @@ Note: The two entries mapped to "Other/Unspecified" were non-standard/placeholde
      - PositionID (duplicate of Position)
      - PerfScoreID (duplicate of PerformanceScore)
      - ManagerID (duplicate of Manager name)
-     - From diverssity job fairs
-     - 
+     - FromdiverssityjobfairsID
+     - Termd
 ### 8. Add Derived Columns
 
 **Age** — calculated via Add Column > Custom Column:
